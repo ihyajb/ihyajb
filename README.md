@@ -1,16 +1,11 @@
-### Hi there 👋
+### Hi there I'm AJ 👋
 
-<!--
-**ihyajb/ihyajb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I create scripts primarily for the QBCore fivem framework along with some Discord.py Bots.
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=ihyajb&count_private=true&show_icons=true&theme=dracula&layout=compact">
+    <br>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ihyajb&repo=ax-inventory&theme=dracula">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ihyajb&repo=qb-traphouse&theme=dracula">
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ihyajb&theme=dracula">
+</p>
