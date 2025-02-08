@@ -8,6 +8,6 @@
 <!-- ![casino](https://github-readme-stats.vercel.app/api/pin/?username=ihyajb&repo=qb-casinoheist&theme=dracula) -->
 
 ## Github Stats
-![stats](https://github.ihyajb.dev/api?username=ihyajb&count_private=true&show_icons=true&theme=discord_old_blurple&layout=compact&hide_title=true&hide_rank=false)
+![stats](https://github.ihyajb.dev/api?username=ihyajb&count_private=true&show_icons=true&theme=discord_old_blurple&layout=compact&hide_title=true&hide_rank=false&show=prs_merged)
 
 ![lang](https://github.ihyajb.dev/api/top-langs/?username=ihyajb&hide_progress=true&layout=compact&theme=discord_old_blurple)
